@@ -57,7 +57,7 @@ All data, design decisions, and written content were produced and finalized by m
 
 ![Webpage Preview](images/website.png)
 
-_Add a screenshot of your homepage as `images/website.png`._
+
 
 ---
 
