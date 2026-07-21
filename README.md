@@ -80,7 +80,8 @@ It is **not my latest professional CV**, and some details (such as recent experi
 ---
 ## ⚙️ Hosting
 
-The website is publicly available at the following link:  
-🔗 **Live Demo:** [](https://zecereve.github.io/my-web-page/index.html)
+The website is publicly available at the following link:
+
+**🔗 Live Demo:** [View Website](https://zecereve.github.io/personal-web-page-zecereve/)
 
 ---
